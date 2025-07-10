@@ -1,0 +1,5 @@
+text = input("Enter text: ")
+print(f"Uppercase: {text.upper()}")
+print(f"Lowercase: {text.lower()}")
+print(f"Title case: {text.title()}")
+print(f"Underscored: {text.replace(' ', '_')}")
