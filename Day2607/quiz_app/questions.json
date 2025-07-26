@@ -1,0 +1,35 @@
+[
+  {
+    "type": "mcq",
+    "question": "What is the capital of France?",
+    "options": ["Paris", "Rome", "Berlin", "Madrid"],
+    "answer": "Paris",
+    "difficulty": "easy"
+  },
+  {
+    "type": "truefalse",
+    "question": "Python is a compiled language.",
+    "answer": "False",
+    "difficulty": "medium"
+  },
+  {
+    "type": "mcq",
+    "question": "Which data structure uses LIFO?",
+    "options": ["Queue", "Stack", "Array", "Set"],
+    "answer": "Stack",
+    "difficulty": "medium"
+  },
+  {
+    "type": "truefalse",
+    "question": "The Earth is flat.",
+    "answer": "False",
+    "difficulty": "easy"
+  },
+  {
+    "type": "mcq",
+    "question": "What is the output of 3 ** 2?",
+    "options": ["6", "9", "8", "12"],
+    "answer": "9",
+    "difficulty": "easy"
+  }
+]
